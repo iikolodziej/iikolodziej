@@ -45,13 +45,15 @@ I like electronics, programming, 3d design, UAV's, music and a lot more!
 ![GCC](https://img.shields.io/badge/gcc-white?style=for-the-badge&logoColor=white&labelColor=blue&color=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logoColor=white&labelColor=grey&color=grey)
 
-## Testing and simulating
+## Testing, simulating and computing
 ![Cst studio suite](https://img.shields.io/badge/Cst%20studio%20suite--white?style=for-the-badge&logoColor=white&labelColor=blue&color=blue)
 ![NI sim](https://img.shields.io/badge/NI%20Multisim--white?style=for-the-badge&logoColor=white&labelColor=grey&color=grey)
 ![Ltspice](https://img.shields.io/badge/Ltspice-white?style=for-the-badge&logo=ltspice&logoColor=white&labelColor=purple&color=purple)
 ![ICAP](https://img.shields.io/badge/Icap-white?style=for-the-badge&logoColor=white&labelColor=red&color=red)
 ![antenna magnus](https://img.shields.io/badge/Antenna%20magnus-white?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=brown&color=brown)
 ![mmana gal](https://img.shields.io/badge/Mmana-gal%20basic-white?style=for-the-badge&logoColor=white&labelColor=%23ADD8E6&color=%23ADD8E6)
+![matlab](https://img.shields.io/badge/MAtlab-white?style=for-the-badge&labelColor=blue&color=blue)
+![scilab](https://img.shields.io/badge/scilab-white?style=for-the-badge&logo=dassaultsystemes&labelColor=%23005386&color=%23005386)
 
 ## SDR
 ![Sdr console](https://img.shields.io/badge/Sdr%20console-white?style=for-the-badge&logoColor=white&labelColor=%23ADD8E6&color=%23ADD8E6)
