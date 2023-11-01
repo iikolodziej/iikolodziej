@@ -1,6 +1,6 @@
 # Hi there! 
 I am currently studying electronics and telecommunications at the Military University of Technology in Warsaw.<br /> 
-I like electronics, programming, 3d design, UAV's, music and a lot more!
+I like electronics, RF, antennas, programming, 3d design, UAV's, music and a lot more!
 
 # Tech stack
 
