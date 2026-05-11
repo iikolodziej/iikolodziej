@@ -7,6 +7,7 @@ I like, live and work on electronics, RF, antennas, programming, 3d design, UAV'
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=%23A8B9CC&labelColor=blue&color=blue)
 ![VHDL](https://img.shields.io/badge/VHDL-white?style=for-the-badge&logo=%23A5915F&labelColor=red&color=red)
+![Python](https://img.shields.io/badge/Python-lightblue)
 
 ## Tools and others
 ### PCB design
